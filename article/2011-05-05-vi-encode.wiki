@@ -1,0 +1,9 @@
+---
+layout: post
+title: vi encode
+category: tech
+---
+p(date). 2011-05-05
+
+²â 
+

@@ -1,0 +1,28 @@
+---
+layout: post
+title: How to use github
+category: tech
+---
+p(date). 2011-05-05
+
+h3. Start with git
+
+{% highlight php %}
+git config --global user.name "Your Name"
+git config --global user.email sesehai@gmail.com
+
+mkdir sesehai.github.com
+cd sesehai.github.com 
+git init
+touch README
+git add README
+git commit -m 'first commit'
+git remote add origin git@github.com:sesehai/sesehai.github.com.git
+git push -u origin master
+{% endhighlight %}
+
+
+h3. github:help
+
+    Help:http://help.github.com/
+

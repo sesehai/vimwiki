@@ -1,0 +1,12 @@
+---
+layout: post
+title: Data Types XML
+category: tech
+---
+
+p(date). 2011-05-09
+
+
+h3. XML Tutorial
+
+    <a href="http://www.w3school.com.cn/xml/index.asp" target="_blank">XML 教程</a>
