@@ -1,3 +1,4 @@
+
 <h1 class="justcenter">用 vimwiki 搭建你自己的维基世界</h1> <!-- 不想让目录里面出现这个标题 -->
 %toc
 Vim 里有个 [http://code.google.com/p/vimwiki/ vimwiki] 插件，正在使用 Vim 的同学一定有所耳闻。有了vimwiki， 搭配Vim本身强大的编辑功能，你就拥有了一个快速、轻巧、功能强大的个人笔记本。通过 vimwiki 输出HTML页面，你还能方便地和别人分享自己的知识积累。您现在看到的这个[http://wiki.ktmud.com 丘迟的维基世界]即是通过 vimwiki
