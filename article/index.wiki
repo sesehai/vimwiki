@@ -2,7 +2,6 @@
 # [[011-05-09-data-types-xml|Data Type XML]]
 # [[2011-04-23-start-with-github-blog|Start With GitHub Blog]]
 # [[2011-05-05-some-useful-commands|一些有用的命令]]
-# [[2011-05-05-vi-encode|Vi Encode]]
 # [[2011-05-09-data-types-and-json|JSON 和数据类型]]
 # [[2011-05-12-regular-expressions-tutorial|正则表达式简明教程]]
 # [[2011-07-18_zend_router_request_source|Zend FrameWork 路由器Request源码分析]]
