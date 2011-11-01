@@ -1,6 +1,6 @@
 %toc
-%title 海的维基
-= 海的维基 =
+%title 海的心情 
+= 海的心情 =
 
 == github上的项目 ==
 # [http://github.com/sesehai github首页]
