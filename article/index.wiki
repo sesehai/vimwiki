@@ -15,3 +15,4 @@
 # [[2011-08-31-mysql-Optimization-tutorials|mysql 优化教程]] 
 # [[2011-10-16-The-three-sentences-of-a-boss|一个老板的三句话]]
 # [[2011-10-18-vimwiki-Tutorial|Vimwiki 教程]]
+# [[2011-11-21-linux-command-sort-data | 巧用Linux命令完成统计排序功能]]
