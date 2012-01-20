@@ -22,6 +22,7 @@
         # [http://zh.linuxvirtualserver.org/  LVS中文站]
         # [http://linux.vbird.org/  鳥哥的 Linux 私房菜]
         # [http://linux-vbird.bluedata.org/  鸟哥的 Linux 私房菜]
+        # [http://www.ee.surrey.ac.uk/Teaching/Unix/ UNIX Tutorial for Beginners]
 
 == PHP ==
         # [http://www.php100.com/  PHP100中文网-中国第一档PHP资源分享门户]
@@ -35,6 +36,7 @@
 
 == News ==
         # [http://ycombinator.com/  Y Combinator]
+        # [http://w3techs.com/ W3Techs]
 
 == Python ==
         # [https://www.djangoproject.com  djangoproject]
