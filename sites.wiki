@@ -27,6 +27,7 @@
         # [http://www.linux.gov.cn/shell/awk.htm Awk学习笔记]
         # [http://www.grymoire.com/Unix/Sed.html Sed - An Introduction and Tutorial ]
         # [http://www.grymoire.com/Unix/Awk.html Awk ]
+        # [http://www.tsnc.edu.cn/default/tsnc_wgrj/doc/sed.htm Sed学习笔记 ]
 
 == PHP ==
         # [http://www.php100.com/  PHP100中文网-中国第一档PHP资源分享门户]
