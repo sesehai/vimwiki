@@ -36,6 +36,8 @@
         # [http://pecl.php.net/  PECL :: The PHP Extension Community Library]
         # [http://pear.php.net/  PEAR - PHP Extension and Application Repository]
         # [http://php.net/  PHP: Hypertext Preprocessor]
+        # [http://pear.phpv.net/cn/ PEAR 手册--PHPV.net译制简体中文版]
+        # [http://www.ibm.com/developerworks/cn/linux/sdk/php/pear1/index.html PEAR简介:用PEAR来写你的下一个php程序]
         
 == Source Blog ==
         # [http://thvdburgt.nl/  thvdburgt blog (about c)]
