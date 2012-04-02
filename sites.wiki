@@ -12,6 +12,7 @@
         # [http://www.google.com.hk/ggblog/googlechinablog/   黑板报]
         # [http://www.perfgeeks.com/  perfgeeks geeks]
         # [http://www.cnblogs.com/terryglp/  Terry_glp]
+        # [http://hi.baidu.com/thinkinginlamp/home 老王技术手册]
 == Util Site ==
         # [http://jsfiddle.net/  jsfiddle]
         # [http://adamlu.com/  Hi, I’m Adam Lu.]
