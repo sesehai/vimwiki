@@ -13,6 +13,7 @@
         # [http://www.perfgeeks.com/  perfgeeks geeks]
         # [http://www.cnblogs.com/terryglp/  Terry_glp]
         # [http://hi.baidu.com/thinkinginlamp/home 老王技术手册]
+        # [http://huoding.com/ 火丁笔记]
         # [http://www.berlinix.com/index.html 波黎克斯]
 == Util Site ==
         # [http://jsfiddle.net/  jsfiddle]
