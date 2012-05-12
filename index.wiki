@@ -1,10 +1,12 @@
 %toc
-%title 海的心情 
-= 海的心情 =
+%title 海的心情|思考、记录生活变得更丰富！
 
-== github上的项目 ==
+== Github上的项目 ==
 # [http://github.com/sesehai github首页]
 # [http://sesehai.github.com sesehai]
 # [https://github.com/sesehai/EasyFramework EasyFramework]
 # [https://github.com/sesehai/vimwiki vimviki]
+# [https://github.com/dwz-ZendFramework/ dwz-ZendFramework 定制版]
+# [https://github.com/MyWordpress/ MyWordpress 定制版]
+# [https://github.com/myproject/ 如何使用PEAR]
 
