@@ -1,0 +1,19 @@
+%toc
+%title Vimwiki 中文编码处理|海的心情
+
+== Vimwiki 中文编码的处理 ==
+
+日期：2012-05-13
+
+在windowns 操作系统上使用 Gvim + vimwiki来写东西时：
+#新建页面":tabnew"，设置好文件名，打开文件开始写东西；
+#写完 ":w" 保存，":VimwikiAll2HTML"生成html文件;
+#代开 github 命令行客户端:
+ * 在html文件目录下，执行"git add ./","git commit ./" ,"git push git@github.com:sesehai/sesehai.github.com.git";
+ * 在vimwiki目录下，执行"git add ./","git commit ./","git push git@github.com:sesehai/vimwiki.git"
+#浏览器中代开- http://sesehai.github.com 查看相应的文章，发现中文是乱码；
+#github上代开- 该文件，发现同样是乱码；
+
+以上问题没有找到很好的解决方法，只有一个笨拙的方法：
+
+* 新建页面后，执行":set enc"

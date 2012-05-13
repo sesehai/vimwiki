@@ -22,5 +22,6 @@
 # [[2011-11-21-linux-command-sort-data | 巧用Linux命令完成统计排序功能]]
 
 == 工具相关 ==
+# [[2012-05-13-vimwiki-encode|Vimwiki中文编码处理]]
 # [[2011-04-23-start-with-github-blog|Start With GitHub Blog]]
 # [[2011-10-18-vimwiki-Tutorial|Vimwiki 教程]]
