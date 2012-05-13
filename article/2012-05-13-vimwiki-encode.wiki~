@@ -1,19 +1,19 @@
 %toc
-%title Vimwiki ÖĞÎÄ±àÂë´¦Àí|º£µÄĞÄÇé
+%title Vimwiki ä¸­æ–‡ç¼–ç å¤„ç†|æµ·çš„å¿ƒæƒ…
 
-== Vimwiki ÖĞÎÄ±àÂëµÄ´¦Àí ==
+== Vimwiki ä¸­æ–‡ç¼–ç çš„å¤„ç† ==
 
-ÈÕÆÚ£º2012-05-13
+æ—¥æœŸï¼š2012-05-13
 
-ÔÚwindowns ²Ù×÷ÏµÍ³ÉÏÊ¹ÓÃ Gvim + vimwikiÀ´Ğ´¶«Î÷Ê±£º
-#ĞÂ½¨Ò³Ãæ":tabnew"£¬ÉèÖÃºÃÎÄ¼şÃû£¬´ò¿ªÎÄ¼ş¿ªÊ¼Ğ´¶«Î÷£»
-#Ğ´Íê ":w" ±£´æ£¬":VimwikiAll2HTML"Éú³ÉhtmlÎÄ¼ş;
-#´ú¿ª github ÃüÁîĞĞ¿Í»§¶Ë:
- * ÔÚhtmlÎÄ¼şÄ¿Â¼ÏÂ£¬Ö´ĞĞ"git add ./","git commit ./" ,"git push git@github.com:sesehai/sesehai.github.com.git";
- * ÔÚvimwikiÄ¿Â¼ÏÂ£¬Ö´ĞĞ"git add ./","git commit ./","git push git@github.com:sesehai/vimwiki.git"
-#ä¯ÀÀÆ÷ÖĞ´ú¿ª- http://sesehai.github.com ²é¿´ÏàÓ¦µÄÎÄÕÂ£¬·¢ÏÖÖĞÎÄÊÇÂÒÂë£»
-#githubÉÏ´ú¿ª- ¸ÃÎÄ¼ş£¬·¢ÏÖÍ¬ÑùÊÇÂÒÂë£»
+åœ¨windowns æ“ä½œç³»ç»Ÿä¸Šä½¿ç”¨ Gvim + vimwikiæ¥å†™ä¸œè¥¿æ—¶ï¼š
+#æ–°å»ºé¡µé¢":tabnew"ï¼Œè®¾ç½®å¥½æ–‡ä»¶åï¼Œæ‰“å¼€æ–‡ä»¶å¼€å§‹å†™ä¸œè¥¿ï¼›
+#å†™å®Œ ":w" ä¿å­˜ï¼Œ":VimwikiAll2HTML"ç”Ÿæˆhtmlæ–‡ä»¶;
+#ä»£å¼€ github å‘½ä»¤è¡Œå®¢æˆ·ç«¯:
+ * åœ¨htmlæ–‡ä»¶ç›®å½•ä¸‹ï¼Œæ‰§è¡Œ"git add ./","git commit ./" ,"git push git@github.com:sesehai/sesehai.github.com.git";
+ * åœ¨vimwikiç›®å½•ä¸‹ï¼Œæ‰§è¡Œ"git add ./","git commit ./","git push git@github.com:sesehai/vimwiki.git"
+#æµè§ˆå™¨ä¸­ä»£å¼€- http://sesehai.github.com æŸ¥çœ‹ç›¸åº”çš„æ–‡ç« ï¼Œå‘ç°ä¸­æ–‡æ˜¯ä¹±ç ï¼›
+#githubä¸Šä»£å¼€- è¯¥æ–‡ä»¶ï¼Œå‘ç°åŒæ ·æ˜¯ä¹±ç ï¼›
 
-ÒÔÉÏÎÊÌâÃ»ÓĞÕÒµ½ºÜºÃµÄ½â¾ö·½·¨£¬Ö»ÓĞÒ»¸ö±¿×¾µÄ·½·¨£º
+ä»¥ä¸Šé—®é¢˜æ²¡æœ‰æ‰¾åˆ°å¾ˆå¥½çš„è§£å†³æ–¹æ³•ï¼Œåªæœ‰ä¸€ä¸ªç¬¨æ‹™çš„æ–¹æ³•ï¼š
 
-* ĞÂ½¨Ò³Ãæºó£¬Ö´ĞĞ":set enc"
+* æ–°å»ºé¡µé¢åï¼Œæ‰§è¡Œ":set enc"
