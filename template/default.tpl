@@ -32,6 +32,11 @@
 <div id="main">
 %content%
 </div>
+<div id="pinglun">
+<!-- PingLun.La Begin -->
+<div id="pinglunla_here"></div><a href="http://pinglun.la/" id="logo-pinglunla">评论啦</a><script type="text/javascript" src="http://static.pinglun.la/md/pinglun.la.js" charset="utf-8"></script>
+<!-- PingLun.La End -->
+</div>
 <div id="footer">
     <p>
 	<a href="http://creativecommons.org/licenses/by-nc-sa/2.5/" rel="license">
