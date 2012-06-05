@@ -18,6 +18,7 @@
 # [[2011-08-31-Good-Programmers-Make-Bad-Designers|Good programmers make bad designers]]
 
 == 服务器相关 ==
+# [[2012-06-05-nginx-Connection-reset-by-peer| nginx php fastcgi Connection reset by peer的原因及解决办法]]
 # [[2012-06-05-linux-connections| linux服务器每秒并发处理数的计算]]
 # [[2011-05-05-some-useful-commands|一些有用的命令]]
 # [[2011-11-21-linux-command-sort-data | 巧用Linux命令完成统计排序功能]]
