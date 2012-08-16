@@ -22,6 +22,7 @@
         # [http://www.jzwalk.com/ 羽中漫步]
         # [http://u-lis.com/ 游离式]
         # [http://www.mike.org.cn/ 简单.生活]
+        # [http://www.cnxct.com/ CNXCT小组的博客]
 == Util Site ==
         # [http://jsfiddle.net/  jsfiddle]
         # [http://adamlu.com/  Hi, I’m Adam Lu.]
